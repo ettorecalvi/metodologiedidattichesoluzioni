@@ -1,0 +1,9 @@
+# File di sistema macOS
+.DS_Store
+
+# File temporanei generati dal sistema operativo macOS
+*.swp
+*~
+
+# File compilati Java
+*.class
